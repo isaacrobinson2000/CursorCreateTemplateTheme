@@ -1,5 +1,5 @@
 # CursorCreateTemplateTheme
-A template cursor theme for the CursorCreate cursor build system.
+A template cursor theme for the [CursorCreate](https://github.com/isaacrobinson2000/CursorCreate) cursor build system.
 
 ### Downloading
 
